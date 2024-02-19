@@ -95,10 +95,10 @@
   <a href="https://www.hackerrank.com/profile/Ashish254" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://leetcode.com/jdashish/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" height="35" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/jdashish/" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=7079692988&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=7079692988&text&type=phone_number&app_absent=0" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
