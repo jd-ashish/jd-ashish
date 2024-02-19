@@ -1,4 +1,4 @@
-<h2 align="left">Hey! Nice to see you.</h2>
+![image](https://github.com/jd-ashish/jd-ashish/assets/62765019/f47cb962-3cef-4d70-9742-42471580ec7d)<h2 align="left">Hey! Nice to see you.</h2>
 
 ###
 
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://leetcode.com/jdashish/" target="_blank">
-    Leet code
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=7079692988&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
