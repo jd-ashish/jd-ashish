@@ -1,4 +1,4 @@
-![image](https://github.com/jd-ashish/jd-ashish/assets/62765019/f47cb962-3cef-4d70-9742-42471580ec7d)<h2 align="left">Hey! Nice to see you.</h2>
+<h2 align="left">Hey! Nice to see you.</h2>
 
 ###
 
